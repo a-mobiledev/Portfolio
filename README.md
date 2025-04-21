@@ -69,10 +69,12 @@ WX SuperApp is the ultimate mobile app platform for the workplace of the future.
 - Added IDs project wide for automation.
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/2059f309-d0fe-4cc0-ab67-8d35b37eb593" width="200"/>
- <img src="https://github.com/user-attachments/assets/9ecba33d-fd02-4dd8-a62f-c0bcb94e1261" width="200"/>
+ <img src="https://github.com/user-attachments/assets/585b065b-436d-4b48-993d-b624c04ce3ae" width="200"/>
+ <img src="https://github.com/user-attachments/assets/45e38f70-02c3-4839-be7a-8d554d5edb3d" width="200"/>
+ <img src="https://github.com/user-attachments/assets/cc66415f-9197-4b17-9bde-4e479e3aee08" width="200"/>
  <img src="https://github.com/user-attachments/assets/0d3b51c2-090b-4ad6-a8ab-52be1750389e" width="200"/>
  <img src="https://github.com/user-attachments/assets/ed5c8119-6743-447c-a039-06ab23733428" width="200"/>
+<img src="https://github.com/user-attachments/assets/47ff3708-bdd6-4dd5-8013-96ef4eac6fde" width="200"/>
 </p>
 
 **Tech Used**
